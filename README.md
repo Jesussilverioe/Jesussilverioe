@@ -28,5 +28,4 @@
 
 ---
 
-[uhlink]
 [linkedin]: https://www.linkedin.com/in/jesus-silverio-estrella-19b267161/
