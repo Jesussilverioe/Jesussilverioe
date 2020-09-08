@@ -1,6 +1,6 @@
 ### Hi, I'm Jesus 👋
 
-## I'm a Developer, and Teacher!
+## I'm a Computer Science student currently at the Univerity of Houston!
 
 
 ### Connect with me:
@@ -28,5 +28,5 @@
 
 ---
 
-
+[uhlink]
 [linkedin]: https://www.linkedin.com/in/jesus-silverio-estrella-19b267161/
